@@ -1,0 +1,28 @@
+{
+  "pizzainfo":
+  {
+    "storage": 10,
+    "maxpizzanum": 100,
+    "daytime": 1000,
+    "bakers": [
+      {
+        "experience": 4
+      },
+      {
+        "experience": 2
+      },
+      {
+        "experience": 1
+      }
+    ],
+    "deliverymen": [
+      {
+        "backpacksize": 3
+      },
+      {
+        "backpacksize": 2
+      }
+
+    ]
+  }
+}
