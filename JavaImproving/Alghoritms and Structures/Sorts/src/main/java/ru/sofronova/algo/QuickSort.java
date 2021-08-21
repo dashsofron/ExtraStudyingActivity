@@ -1,4 +1,4 @@
-package ru.nsu.fit.g18208.Sofronova;
+package ru.sofronova.algo;
 
 import java.util.Arrays;
 

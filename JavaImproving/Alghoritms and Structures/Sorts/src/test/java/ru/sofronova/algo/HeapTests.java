@@ -1,10 +1,7 @@
-package ru.nsu.fit.g18208.Sofronova;
+package ru.sofronova.algo;
 
 import org.junit.Assert;
 import org.junit.Test;
-import ru.nsu.fit.g18208.Sofronova.HeapSort;
-
-import java.util.Arrays;
 
 public class HeapTests {
     @Test
